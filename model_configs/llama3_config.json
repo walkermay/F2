@@ -1,0 +1,19 @@
+{
+    "model_info":{
+        "provider":"llama",
+        "name":"meta-llama/Llama-3.1-8B-Instruct"
+    },
+    "api_key_info":{
+        "api_keys":[
+            "YOUR API KEY"
+        ],
+        "api_key_use": 0
+    },
+    "params":{
+        "temperature":0.1,
+        "seed":100,
+        "gpus":[0],
+        "device":"cuda",
+        "max_output_tokens":150
+    }
+}
